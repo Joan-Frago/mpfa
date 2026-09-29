@@ -2,4 +2,4 @@
 
 set -x
 
-gcc -o bin/main main.c
+gcc -o bin/main main.c sensor.c
